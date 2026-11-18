@@ -615,4 +615,6 @@ GitHub Actions (`.github/workflows/ci.yml`) runs `./mvnw -B verify` on every pus
 
 ## License
 
-MIT
+Released under the [MIT License](LICENSE). Contributions are welcome — see
+[CONTRIBUTING.md](CONTRIBUTING.md) for the workflow and [SECURITY.md](SECURITY.md)
+for private vulnerability reporting.
